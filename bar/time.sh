@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "$(date '+ %r' | sed 's/$(date '+:%S')//')  "
+echo "$(date '+ %I:%M%p')  "
