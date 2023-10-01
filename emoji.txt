@@ -135,7 +135,7 @@
 🤎 brown heart; 1F90E;
 🖤 black heart; 1F5A4;
 🤍 white heart; 1F90D;
-💯 hundred points; 1F4AF;
+💯 100 hundred points; 1F4AF;
 💢 anger symbol; 1F4A2;
 💥 collision; 1F4A5;
 💫 dizzy; 1F4AB;
@@ -181,6 +181,7 @@
 🙏 praying folded hands; 1F64F;
 ✍️ writing hand; 270D FE0F;
 💅 nail polish; 1F485;
+🫶 hand hearts; 01FAF6 01F3FB;
 🤳 selfie; 1F933;
 💪 flexed biceps; 1F4AA;
 🦾 mechanical arm; 1F9BE;
